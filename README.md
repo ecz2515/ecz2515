@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Evan!
 - 👀 I’m interested in CS and Music
-- 🌱 I’m currently studying Computer Engeering @ Northwestern
-- 🎻 I'm also a violinist, and a dual degree student at NU
+- 🌱 I’m currently studying Computer Engineering @ Northwestern
+- 🎻 I'm also a dual degree student at NU; I play the violin
 - 📫 Reach me at evanchen2025@u.northwestern.edu
 
 <!---
