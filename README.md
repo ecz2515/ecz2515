@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Evan!
-- 👀 I’m interested in CS and Music
-- 🌱 I’m currently studying Computer Engineering @ Northwestern
-- 🎻 I'm also a dual degree student at NU; I play the violin
-- 📫 Reach me at evanchen2025@u.northwestern.edu
+Hey! I'm Evan, a dual-degree student at Northwestern studying Computer Engineering and Violin Performance. I'm passionate about combining music and technology to create innovative products and visualisations related to music and sound. Thanks for visiting my GitHub!
 
 <!---
 ecz2515/ecz2515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
